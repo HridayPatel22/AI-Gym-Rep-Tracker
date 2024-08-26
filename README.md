@@ -13,7 +13,7 @@ The AI Gym Rep Tracker solves these issues by:
 - Rep Counting: Automatically counts repetitions based on detected poses, reducing manual tracking errors during workouts.
 - Stage Tracking: Monitors and displays the current stage in your exercise (e.g, "up" or "down"), ensuring correct exercise execution.
 
-  <img width="199" alt="features" src="https://github.com/user-attachments/assets/8a3f89a3-6ff6-4067-9954-94429f61efdf">
+  <img width="197" alt="features_1" src="https://github.com/user-attachments/assets/b9585092-b2f6-4e6c-be17-860b385a222f">
 - Real-Time Visualization: Renders joint angles and repetition counts directly on the video feed using OpenCV for immediate feedback.
 
 ## Tech Stack 
