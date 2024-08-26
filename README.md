@@ -40,7 +40,7 @@ The AI Gym Rep Tracker solves these issues by:
 2. Interact with the App
 - The app with open a video feed from your webcam, showing real-time pose detection. Begin by moving your arms as if you were performing a bicep curl, and you will see the reps start to automatically accumulate as you begin to lift the weights along with your current postition during the lift.
 <img width="477" alt="pose_up" src="https://github.com/user-attachments/assets/023fa554-07d6-48dc-bab1-0c43592a141b">
-<img width="474" alt="pose_down" src="https://github.com/user-attachments/assets/1e61b70e-5924-48bf-8f4c-b3bfb79ade63">
+<img width="527" alt="pose_down_2" src="https://github.com/user-attachments/assets/7256a0a2-f9cf-42b2-b0bc-1fa7df88426f">
 
 3. Customization
 - Adjust the visual settings and colors in the constants right at the top to fit your preferences or in the def display_reps_and_stage function to change the box dimensions and spacing of the text.
