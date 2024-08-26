@@ -43,7 +43,7 @@ The AI Gym Rep Tracker solves these issues by:
 <img width="527" alt="pose_down_2" src="https://github.com/user-attachments/assets/7256a0a2-f9cf-42b2-b0bc-1fa7df88426f">
 
 3. Customization
-- Adjust the visual settings and colors in the constants right at the top to fit your preferences or in the def display_reps_and_stage function to change the box dimensions and spacing of the text.
+- Adjust the visual settings and colors in the constants right at the top to fit your preferences or in the display_reps_and_stage function to change the box dimensions and spacing of the text.
 
 ## Code Structure 
 This project is implemented in a single file 'main.py' which includes: 
