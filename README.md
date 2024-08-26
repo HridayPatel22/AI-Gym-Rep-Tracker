@@ -12,6 +12,8 @@ The AI Gym Rep Tracker solves these issues by:
 - Pose Detection: Uses MediaPipe to detect and analyze exercise poses from a live webcam feed.
 - Rep Counting: Automatically counts repetitions based on detected poses, reducing manual tracking errors during workouts.
 - Stage Tracking: Monitors and displays the current stage in your exercise (e.g, "up" or "down"), ensuring correct exercise execution.
+
+  <img width="199" alt="features" src="https://github.com/user-attachments/assets/8a3f89a3-6ff6-4067-9954-94429f61efdf">
 - Real-Time Visualization: Renders joint angles and repetition counts directly on the video feed using OpenCV for immediate feedback.
 
 ## Tech Stack 
