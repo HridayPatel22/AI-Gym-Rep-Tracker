@@ -47,7 +47,7 @@ The AI Gym Rep Tracker solves these issues by:
 
 ## Code Structure 
 This project is implemented in a single file 'main.py' which includes: 
-  - Imports and Constants: Includes necessary libraries ('cv2, 'mediapipe', 'numpy') and defines necessary constants for annotations and display.
+  - Imports and Constants: Includes necessary libraries ('cv2', 'mediapipe', 'numpy') and defines necessary constants for annotations and display.
 - Functions:
   - 'initialize_video_capture()': Sets up the webcam for video capture.
   - 'process_frame(pose, frame)': Processes video frames to detect pose landmarks.
