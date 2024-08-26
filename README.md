@@ -54,8 +54,8 @@ This project is implemented in a single file 'main.py' which includes:
   - 'draw_landmarks(image, results)': Draws pose landmarks on the image.
   - 'calculate_angle(a, b, c)': Calculates the angle between the three points.
   - 'get_landmarks(results)': Extracts landmarks from pose detection results.
-  - 'annotate_angle_on_image(image, angle, position)': Adds angle annotations to the image.
-  - 'display_reps_and_stage(image, counter, stage)': Displays the rep counter and exercise stage on the image.
+  - 'annotate_angle_image(image, angle, position)': Adds angle annotations to the image.
+  - 'display_reps_stage(image, counter, stage)': Displays the rep counter and exercise stage on the image.
   - 'main()': Runs the video capture and processing loop. 
 
 ## Contact 
