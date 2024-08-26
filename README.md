@@ -21,9 +21,9 @@ The AI Gym Rep Tracker solves these issues by:
 ## Tech Stack 
 - Programming Language: Python
 - Libraries:
-  - Open CV:  For video capture and visualization
-  - MediaPipe: For pose detection and landmark analysis
-  - NumPy: For angle calculations (np.array and np.arctan2 functions) and coordinate conversion (scale coordinates for annotations on video feed)
+  - Open CV:  For video capture and visualization.
+  - MediaPipe: For pose detection and landmark analysis.
+  - NumPy: For angle calculations (np.array and np.arctan2 functions) and coordinate conversion (scale coordinates for annotations on video feed).
 - IDE: Visual Studio Code
 
 ## Installation 
