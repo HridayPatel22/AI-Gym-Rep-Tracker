@@ -49,6 +49,7 @@ The AI Gym Rep Tracker solves these issues by:
 This project is implemented in a single file 'main.py' which includes: 
   - Imports and Constants: Includes necessary libraries ('cv2', 'mediapipe', 'numpy') and defines necessary constants for annotations and display.
 - Functions:
+  - '__init_(self)': Initializes class by setting up video capture and the MediaPipe solution
   - 'initialize_video_capture()': Sets up the webcam for video capture.
   - 'process_frame(pose, frame)': Processes video frames to detect pose landmarks.
   - 'draw_landmarks(image, results)': Draws pose landmarks on the image.
@@ -56,7 +57,7 @@ This project is implemented in a single file 'main.py' which includes:
   - 'get_landmarks(results)': Extracts landmarks from pose detection results.
   - 'annotate_angle_image(image, angle, position)': Adds angle annotations to the image.
   - 'display_reps_stage(image, counter, stage)': Displays the rep counter and exercise stage on the image.
-  - 'main()': Runs the video capture and processing loop. 
+  - 'run(self)': Runs the video capture, frame processing loop, and displays annotated video feed. 
 
 ## Contact 
 For questions or additional information, please reach out to me: 
