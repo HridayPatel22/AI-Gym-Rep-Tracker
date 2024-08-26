@@ -16,6 +16,8 @@ The AI Gym Rep Tracker solves these issues by:
   <img width="197" alt="features_1" src="https://github.com/user-attachments/assets/b9585092-b2f6-4e6c-be17-860b385a222f">
 - Real-Time Visualization: Renders joint angles and repetition counts directly on the video feed using OpenCV for immediate feedback.
 
+  <img width="374" alt="joint_angles_1" src="https://github.com/user-attachments/assets/166fe13a-74b2-41b1-9fed-72b5e273942a">
+
 ## Tech Stack 
 - Programming Language: Python
 - Libraries:
