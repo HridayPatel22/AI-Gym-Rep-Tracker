@@ -1,4 +1,5 @@
 # AI-Gym-Rep-Tracker
+<img width="476" alt="pose_detection(1)" src="https://github.com/user-attachments/assets/699291a2-3067-44f6-ac9c-dfdd2fc1d0b9">
 
 ## Project Description
 The AI Gym Rep Tracker is an application that utilizes AI-powered pose estimation to enhance your workout experience. By leveraging MediaPipe and Python, this project detects and analyzes various exercise poses in real-time from your webcam feed. The tool provides immediate feedback on exercise performance by calculating joint angles to determine the stage you are in your exercise and tracking repetitions, which are then rendered on the screen using OpenCV. 
